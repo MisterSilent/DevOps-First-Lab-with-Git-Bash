@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 LINE-from MAIN
+=======
+LINE-from A
+>>>>>>> feature/A
